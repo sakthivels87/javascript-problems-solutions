@@ -1,0 +1,29 @@
+{
+  "name": "javascript-problem-solving",
+  "version": "1.0.0",
+  "description": "This project will provide some of the javascript problems and solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakthivels87/javascript-problems-solutions.git"
+  },
+  "keywords": [
+    "javascript",
+    "problems",
+    "solutions"
+  ],
+  "author": "sakthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakthivels87/javascript-problems-solutions/issues"
+  },
+  "homepage": "https://github.com/sakthivels87/javascript-problems-solutions#readme",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^1.4.0",
+    "vitest": "^1.4.0"
+  }
+}
